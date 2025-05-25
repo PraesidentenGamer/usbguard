@@ -27,7 +27,6 @@ USBGuard ist ein kleines Python-Tool mit einer grafischen Benutzeroberfläche (G
    pip instll time
    pip install os
    pip install threading
-   pip install time
 ```
 
 **Mitwirkende:**
