@@ -40,3 +40,5 @@ Kontakt
 Für Fragen oder Vorschläge öffne bitte ein Issue im Repository oder kontaktiere CodeMajorX.
 
 © 2025 CodeMajorX
+
+für meine Projekte nutze ich Python 3.12.9 in Windows 11 Pro
