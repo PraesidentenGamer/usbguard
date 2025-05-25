@@ -41,7 +41,7 @@ Für Fragen oder Vorschläge öffne bitte ein Issue im Repository oder kontaktie
 
 © 2025 CodeMajorX
 
-für meine Projekte nutze ich Python 3.12.9 in Windows 11 Pro
+für meine Projekte nutze ich Python 3.12.9 in Windows 11 Pro. Beim starten des Programms kommt eine Fehlermeldung das das Programm Adminrechte braucht dies könnt ihr solange ihr nichts ändern wollt ignorieren einige Virenscanner reagieren negativ auf das Programm weil es offenbar das Verhalten eines Virus/Trojaners hat dies ist aber eine Fehlinformation.
 
 
 Englisch
@@ -90,4 +90,4 @@ Please open an issue in the repository or contact Codemajorx for questions or su
 
 © 2025 Codemajorx
 
-For my projects I use Python 3.12.9 in Windows 11 Pro
+For my projects I use Python 3.12.9 in Windows 11 Pro. When starting the program comes an error message that the program needs admin rights you can do so as long as you don't want to change anything. Some virus scanners react negatively to the program because it obviously has the behavior of a virus/trojan, but this is a misinformation.
